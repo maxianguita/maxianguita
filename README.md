@@ -4,9 +4,11 @@
 </div>
 <div style="text-align: center;">
   <img src="https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg" style="width: 100%; max-height: 100px;" alt="Programación" />
-
 </div>
 
+<br/>
+<br/>
+<br/>
 
 <h2> Connect with me <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/maxi-anguita-944774256/" target="_blank">

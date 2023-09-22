@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 style="text-align: center;"><a href="#">welcome I'm Maxi Anguita</a>👋</h1>
+<h1 style="text-align: center;"> Bienvenidos soy,<a href="#"> Maxi Anguita</a>👋</h1>
 </div>
 <div style="text-align: center;">
   <img src="https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg" style="width: 100%;" alt="Programación" />

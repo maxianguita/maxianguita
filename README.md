@@ -62,9 +62,8 @@
 </p>
 <h3> about me: </h3>
 
-- 🔭 I am currently working on I am a Student
 - 🌱 I am a programmer full stack Developer
 - 👯 I am looking to collaborate on projects
-- 🤔 always restless
-- 😄 Pronouns: Max
+
+
 
